@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.248f48b7.css",
+    "main.js": "/static/js/main.712fdf1c.js",
+    "static/media/Call_Center_Academy.jpg": "/static/media/Call_Center_Academy.5bc44981677935a196a2.jpg",
+    "index.html": "/index.html",
+    "main.248f48b7.css.map": "/static/css/main.248f48b7.css.map",
+    "main.712fdf1c.js.map": "/static/js/main.712fdf1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.248f48b7.css",
+    "static/js/main.712fdf1c.js"
+  ]
+}
